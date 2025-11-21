@@ -20,7 +20,3 @@ How to run the MQTT host
 Bluetooth (RFCOMM) notes
 
 - `rfcomm-server.py` and `rfcomm-client.py` are examples intended for use with a Bluetooth adapter and PyBluez. They are not specific to ESP32 BLE (ESP32 uses BLE or Classic BT depending on the sketch).
-
-I can:
-- Move these scripts to `host/` and add small wrapper scripts to launch them, or
-- Keep them at repo root and add more detailed usage notes. Let me know which you prefer.
