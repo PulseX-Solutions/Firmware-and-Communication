@@ -109,7 +109,7 @@ See the `docs/` folder for detailed information:
 ## 🏆 Competition & Projects
 
 ![Competition](docs/images/Competition.jpeg)
-
+![Competition](docs/images/Brainstrom.jpeg)
 This project has been used in IEEE Circuit challange and BRAINSTROM competitions showcasing communication protocols and sensor data collection systems.
 
 ## 🤝 Contributing
