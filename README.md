@@ -10,13 +10,13 @@ This repository contains firmware examples for ESP32/ESP8266 microcontrollers an
 │   └── esp8266/            # ESP8266 sketches (MQTT, WiFi)
 ├── host/                   # Raspberry Pi/PC Python scripts
 ├── arduino_examples/       # Arduino and NRF examples
-│   ├── nrf/               # nRF24L01 radio examples
-│   └── legacy/            # Early experiments and test code
+│   ├── nrf/                # nRF24L01 radio examples
+│   └── legacy/             # Early experiments and test code
 ├── data/                   # Datasets, CSV files, and plotting scripts
 ├── docs/                   # Additional documentation
 ├── requirements.txt        # Python dependencies
-├── setup_host.sh          # Quick setup script for host environment
-└── README.md              # This file
+├── setup_host.sh           # Quick setup script for host environment
+└── README.md               # This file
 ```
 
 ## 🚀 Quick Start
