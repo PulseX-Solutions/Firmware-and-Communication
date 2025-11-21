@@ -119,10 +119,6 @@ This project has been used in IEEE Circuit challange and BRAINSTROM competitions
 - Place new host scripts in `host/`
 - Add a header comment to each sketch describing purpose, board, and required libraries
 
-## 📖 References
-
-Original tutorial: https://www.youtube.com/watch?v=OFaow_TPv6s
-
 ## 📄 License
 
 See individual file headers for attribution and licensing information.
